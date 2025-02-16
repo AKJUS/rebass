@@ -12,15 +12,15 @@
     "cover": "npx codecov"
   },
   "devDependencies": {
-    "@babel/cli": "^7.5.5",
-    "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
+    "@babel/cli": "^7.12.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.22.0",
     "@babel/preset-react": "^7.0.0",
-    "@testing-library/react": "^10.0.4",
-    "jest": "^25.2.4",
-    "jest-emotion": "^10.0.14",
-    "jest-styled-components": "^6.3.3",
-    "lerna": "^3.16.4",
+    "@testing-library/react": "^16.0.0",
+    "jest": "^29.7.0",
+    "jest-emotion": "^11.0.0",
+    "jest-styled-components": "^7.1.0",
+    "lerna": "^6.5.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-test-renderer": "^16.8.6"
